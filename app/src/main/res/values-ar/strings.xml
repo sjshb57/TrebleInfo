@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
 	<string name="title">معلومات Treble</string>
-	<string name="sar_title">النظام كـ الجذر</string>
+	<string name="sar_title">النظام كـالجذر</string>
 	<string name="ab_title">الترقيات السلسة</string>
 	<string name="donate">التبرع</string>
 	<string name="dynamicpartitions_title">الأقسام الديناميكية</string>
