@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
 	<string name="title">معلومات Treble</string>
-	<string name="sar_title">النظام كـ الجذر</string>
+	<string name="sar_title">النظام كـالجذر</string>
 	<string name="ab_title">الترقيات السلسة</string>
 	<string name="donate">التبرع</string>
 	<string name="dynamicpartitions_title">الأقسام الديناميكية</string>
@@ -33,6 +33,7 @@
 	<string name="treble_lite_title">VNDK المخفف</string>
 	<string name="treble_lite_explanation">تكوين VNDK هو المسؤول عن الفصل اﻹجباري بين الأجزاء المختلفة من النظام. أما VNDK Lite فيخفف من هذا القيد ويقلل من متطلبات التخزين، لكن مع توافق أقل.</string>
 	<string name="treble_lite_true">VNDK في الوضع المخفف</string>
+	<string name="treble_lite_false">VNDK ليس في الوضع المخفف</string>
 	<string name="treble_legacy_title">مكان البيان</string>
 	<string name="treble_legacy_explanation">يتم تخزين قائمة الميزات المدعومة التي يمكن للجهاز توفيرها لنظام أندرويد في بيان VINTF. سابقا كان يخزن هذا المِلَفّ في جذر قسم المُصنع، ولكن لم يعد هذا اﻷمر ممارسة جيدة.</string>
 	<string name="treble_legacy_true">قديم</string>
